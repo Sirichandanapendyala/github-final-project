@@ -6,7 +6,7 @@
 
    # Author: Sirichandanapendyala
    # Additional Authors:
-   # <Sirichandanapendyala>
+   # Sirichandanapendyala
 
    # Input:
    # p, principal amount
